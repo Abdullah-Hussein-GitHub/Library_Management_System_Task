@@ -1,0 +1,36 @@
+# Library_Management_System_Task
+Library Management System Document
+
+System is contained from backages, resources, banner, and log file
+
+Backages divided into :
+
+Controllers : contain controllers for each screen
+
+Models : for handling each request and response for end-user
+
+Repositories : for handling data source and communicate with data base
+
+Services : for handling business logic for each requirement (interfaces)
+
+Service_Impl: for handling all business logic
+
+Entities : for creating entities like book and patron
+
+Utils : for anything common use
+
+Resources : contain main folders like banner and application. Properties
+
+ Banner : for handling name of the system till running the app
+
+application. Properties : for config every thing in the app
+
+Log file : for handling what is running in the background and what happened in case of facing errors
+
+Note: I will work on the basic security, AOP, and  the unit test requirements, then i will upload the whole project again
+
+I will test all End-Points with postman till now
+
+
+
+Thanks : Abdullah HUssein
